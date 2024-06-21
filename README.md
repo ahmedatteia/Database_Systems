@@ -2,7 +2,7 @@
 This repository introduces fundamental concepts necessary for designing, using, and implementing database systems and database applications.
 
 
-### __Loyalty Management System Database Design__
+### __Loyalty Management System Database Design Project__
 Overview
 This project involves designing a comprehensive database system for a Loyalty Management System.
 The database is structured to manage loyalty programs, rewards, special offers, customer information, and transactions effectively, project includes SQL scripts for creating  database, schemas, inserting sample data, and performing various queries.
